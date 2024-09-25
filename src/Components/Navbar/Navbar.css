@@ -1,0 +1,13 @@
+/* Navbar Styles */
+.navbar-nav {
+
+    margin-left: auto;
+    justify-content: space-between;
+     align-items: center;
+    padding: 8px 15px;
+    background-color: #fff;
+    position: relative;
+   
+  }
+  
+  
